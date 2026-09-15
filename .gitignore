@@ -1,2 +1,11 @@
+# python cache
 __pycache__/
+
+*.pyc
+ 
+# quiz results
 result.txt
+# log files
+*.log 
+# private environment flie 
+.env
