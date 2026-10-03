@@ -12,6 +12,7 @@ A simple Quiz Game Built with python
 - [Envoirment setup](#envoirment-setup)
 - [Usage](#usage)
 - [Example Output](#example-output)
+- [Screen shot](#screen-shot)
 - [Road Map](#road-map)
 - [Cuntributing](#cuntributing)
 - [Licence](#licence)
@@ -106,6 +107,15 @@ wrong
 your score is : 2 out of 3
 good job
 ```
+## screen shot
+### start game
+![start game](pictures\1.png)
+### quiz
+![quiz](pictures\2.png)
+
+### final score
+![final score](pictures\3.png)
+
 ## Road Map
 - [x] Add multiple quiz question
 - [x] calculate final score
