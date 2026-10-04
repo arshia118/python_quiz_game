@@ -20,5 +20,10 @@ questions = [
     {
         "question" : "what commad sends commits to git hub ?",
         "answer" : "git push" 
-    }
+    },
+    {
+        "question" : "what commad shows git branch",
+        "answer" : "git branch" 
+    },
+
 ]
