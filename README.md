@@ -1,4 +1,7 @@
 # python Quiz Game
+![Static Badge](https://img.shields.io/badge/python-3.12-blue)
+
+
 A simple Quiz Game Built with python
 
 
@@ -34,22 +37,42 @@ A simple Quiz Game Built with python
 ## Project Structure
 ```txt
 python_quiz_game/
-│   main.py
-│   question.py
-│   Requuirments.txt 
 │   .env.example
 │   .gitignore
+│   main.py
+│   question.py
 │   README.md
+│   Requuirments.txt
+│
+├───.vscode
+│       settings.json
+│
+│
+├───pictures
+│       1.png
+│       2.png
+│       3.png
+│
+
 
 
 ```
 ### File Discrebtion 
-- `main.py` - Main File Used to run Quiz Game
-- `question.py` - Stores Questions and Answers 
-- `Requuirments.txt` - List the python packages needed for the project
-- `.env.example` - Shows the Enviorment Variabels Needed by the Project
-- `.gitignore` - Tells git  witch file snd folders should not be tracked 
-- `README.md` - Contains the Project Documantation
+| file | discribtion |
+| ---  | ---|
+| `main.py` | Main File Used to run Quiz Game |
+| `question.py` | Stores Questions and Answers |
+| `Requuirments.txt` | List the python packages needed for the project |
+| `.env.example` | Shows the Enviorment Variabels Needed by the Project |
+| `.gitignore` | Tells git  witch file snd folders should not be tracked |
+| `README.md` | Contains the Project Documantation |
+| `pictures/` | stores project screen shots |
+| `pictures/1.png` | screen shot of the game start |
+| `pictures/2.png` | screen shot of the quiz section |
+| `pictures/3.png` | screen shot of the final result |
+| `gifs/` | stores demo gif files |
+| `gifs/Animation.gif` | shows project demo |
+
 ## Requuirments
 befor running hte Project Make sure you have :
 - `Python 3`
@@ -116,6 +139,8 @@ good job
 ### final score
 ![final score](pictures\3.png)
 
+## Demo
+![quiz game demo](gifs\Animation.gif)
 ## Road Map
 - [x] Add multiple quiz question
 - [x] calculate final score
